@@ -52,7 +52,7 @@ return array(
 	|
 	*/
 
-	'locale' => 'en',
+	'locale' => 'pt',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -78,7 +78,7 @@ return array(
 	|
 	*/
 
-	'key' => 'YourSecretKey!!!',
+	'key' => '3yCrqtmR96DBhBnvyJrHjTkmVrD3LC1t',
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
